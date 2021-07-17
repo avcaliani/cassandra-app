@@ -10,6 +10,7 @@ Some experiments using _Cassandra_ database.
 ## Quick Start
 
 > 👉 Before everything!
+
 Download the free dataset [here](https://www.kaggle.com/thibalbo/techcrunch-posts-compilation/download)! Then move data to `./data/techcrunch-posts.csv`
 
 > 👉 Before run these scripts make sure that you have installed Python 3 ;)
